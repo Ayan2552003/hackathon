@@ -1,0 +1,14 @@
+.col-3{
+    background-color: gray;
+    height: 657px;
+    text-align: center;
+    padding: 50px;
+}
+.col-9{
+    text-align: center;
+    padding: 50px;
+}
+#img1{
+ border-radius: 220px;
+ height: 140px;
+}
