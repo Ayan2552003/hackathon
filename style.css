@@ -1,0 +1,51 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/z/barbeque-ingredients-set-cartoon-icons-collection-bbq-food-isolated-flat-style-90222906.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#information{
+    margin-left: 475px;
+    margin-top: 200px; 
+    
+}
+input{
+    height: 50px;
+    width: 400px;
+    background-color:rgb(235, 209, 209);
+    opacity: .9; 
+    border-style: ridge;
+    border-color:#f5a4a4;
+    margin: 30px;
+    text-align: center;
+    border-radius: 50px;
+    color: red;
+}
+#ahaa{
+text-decoration: none;
+color: rgb(226, 128, 128);
+font-size: large;
+}
+.navbar{
+    color: rgb(226, 128, 128);
+    background-color: rgb(235, 209, 209);
+    border-radius: 20px;
+    
+}
+#but{
+    color:rgb(238, 123, 123) ;
+    background-color: #fdcdcd;
+    border-radius: 20px ;
+    margin-left: 170px;
+    height: 40px;
+}
+#service{
+    background-color:rgb(235, 209, 209);
+    margin-left: 90px;
+    border-radius: 20px;
+    margin-bottom: 70px;
+    width: 25%;
+    text-align: center;
+}
+
